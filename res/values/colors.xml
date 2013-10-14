@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Sliding Menu -->
+    <color name="sliding_menu_bg">#4D4D4D</color>
+    
+    <!-- Profile Fragment -->
+    <color name="profile_fragment_bg">#ded9cd</color>
+    <color name="data_block_shape_border">#4b4f4d</color>
+    <color name="data_block_shape_bg">#78f0f0f0</color>
+    <color name="data_block_text">#5a5a5a</color>
+    <color name="data_block_label_text">#52565d</color>
+    <color name="header_tv_text">#42423f</color>
+    <color name="header_bg_start">#0FFFFFFF</color>
+    <color name="header_bg_end">#78b3bf2e</color>
+</resources>

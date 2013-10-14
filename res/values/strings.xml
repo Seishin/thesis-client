@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Информационна система</string>
+    
+    <!-- Login Screen -->
+    <string name="username">Потребителско име:</string>
+    <string name="password">Парола:</string>
+	<string name="login">Вход</string>
+	
+	<!-- Sliding Menu -->
+	<string name="logout">Изход</string>
+	<string name="profile">Профил</string>
+	<string name="marks">Оценки</string>
+	
+	<!-- Profile Fragment -->
+	<string name="profile_fragment_title">Студентски профил</string>
+	<string name="faculty_number">Факултетен номер:</string>
+	<string name="faculty">Факултет:</string>
+	<string name="major">Специалност:</string>
+    <string name="degree">Степен:</string>
+    <string name="status">Състояние:</string>
+    <string name="pin">ЕГН/ЛЧН:</string>
+    <string name="birth_date">Рожденна дата:</string>
+    <string name="nationality">Гражданство:</string>
+    <string name="year">Курс:</string>
+    
+    <!-- Marks Fragment -->
+    <string name="marks_title">Оценки</string>
+    <string name="date">Дата:</string>
+    <string name="semester">Семестър:</string>
+    <string name="year">Година:</string>
+    <string name="mark">Оценка:</string>
+    
+    <!-- Messages -->
+    <string name="msg_bad_login">Грешно име или парола. \nМоля оптиайте отново.</string>
+	<string name="msg_no_connection">Няма връзка със сървъра.</string>
+	<string name="msg_please_wait">Моля изчакайте...</string>
+</resources>
